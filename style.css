@@ -36,7 +36,13 @@ a {
 }
 
 .info-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
 
+.info-blocks {
+  display: flex;
 }
 
 .info-text {
@@ -59,4 +65,8 @@ a {
 .quote {
   font-size: 36px;
   font-weight: lighter;
+}
+
+.footer {
+  color: #F9FAF8;
 }
