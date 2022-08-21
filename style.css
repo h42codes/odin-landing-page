@@ -1,14 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #E5E7EB;
+}
+
 .top-container {
   background-color: #1F2937;
+}
+
+.logo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.main-text {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+}
+
+.secondary-text {
+  font-size: 18px;
+  color: #E5E7EB;
 }
 
 .info-container {
 
 }
 
+.info-text {
+  font-weight: bolder;
+}
+
 .quote-container {
   background-color: #E5E7EB;
-
+  color: #1F2937;
 }
 
 .signup-container {
@@ -17,4 +54,9 @@
 
 .footer {
   background-color: #1F2937;
+}
+
+.quote {
+  font-size: 36px;
+  font-weight: lighter;
 }
