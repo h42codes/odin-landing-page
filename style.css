@@ -1,5 +1,5 @@
 .top-container {
-  color: #1F2937;
+  background-color: #1F2937;
 }
 
 .info-container {
@@ -7,7 +7,7 @@
 }
 
 .quote-container {
-  color: #E5E7EB;
+  background-color: #E5E7EB;
 
 }
 
@@ -16,5 +16,5 @@
 }
 
 .footer {
-  color: #1F2937;
+  background-color: #1F2937;
 }
